@@ -1,5 +1,5 @@
 #project_quick_jump_box{width: 220px; }
-#quick-search{width: 450px;margin-top: 14px;}
+#quick-search{margin-top: 14px;}
 
-#project_quick_jump_box_chzn{color: black;float: right; position:relative; right:25px;}
+#project_quick_jump_box_chzn{color: black;float: right; position:relative; right:25px; margin-left: 30px;}
 #header a.chzn-single{color:black;}
