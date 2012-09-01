@@ -12,3 +12,8 @@ Screenshots
 ====================
 
 [![Screenshot1](https://github.com/ries-tech/redmine-improved-searchbox/blob/master/project-search-box-screenshot.png)](https://github.com/ries-tech/redmine-improved-searchbox/blob/master/project-search-box-screenshot.png)
+
+Versions
+====================
+
+ * Redmine 2.1.x, 2.2.x 
