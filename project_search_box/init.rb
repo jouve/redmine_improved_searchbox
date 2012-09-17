@@ -5,6 +5,6 @@ Redmine::Plugin.register :project_search_box do
   author 'Furkan Yavuz'
   description 'This plugin provides enhancement for project search box'
   version '0.0.1'
-  url 'http://www.redmine.org/projects/redmine/wiki/Plugin_Tutorial'
-  author_url 'http://www.redmine.org/projects/redmine/wiki/Plugin_Tutorial'
+  url 'https://github.com/ries-tech/redmine-improved-searchbox'
+  author_url 'https://github.com/ries-tech/redmine-improved-searchbox'
 end
