@@ -1,14 +1,11 @@
-redmine-improved-searchbox
-==========================
+= redmine_improved_searchbox
 
-Converts Redmine's project searchbox with Chosen combobox.
+Converts Redmine[http://www.redmine.org]'s project searchbox with Chosen[http://harvesthq.github.com/chosen/] combobox.
 
-Features
-====================
+= Features
 
- * Chosen is a JavaScript plugin that makes long, unwieldy select boxes much more user-friendly
+- Chosen[http://harvesthq.github.com/chosen/] is a JavaScript plugin that makes long, unwieldy select boxes much more user-friendly
 
-Versions
-====================
+= Compatible Versions
 
- * Redmine 2.1.x, 2.2.x
+- Redmine 2.1.x
