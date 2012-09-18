@@ -1,10 +1,10 @@
-require_dependency 'project_search_box_hook_listener'
+require_dependency 'redmine_improved_searchbox_hook_listener'
 
-Redmine::Plugin.register :project_search_box do
+Redmine::Plugin.register :redmine_improved_searchbox do
   name 'Project Search Box Plugin'
   author 'Furkan Yavuz'
   description 'This plugin provides enhancement for project search box'
   version '0.0.1'
-  url 'https://github.com/ries-tech/redmine-improved-searchbox'
-  author_url 'https://github.com/ries-tech/redmine-improved-searchbox'
+  url 'https://github.com/ries-tech/redmine_improved_searchbox'
+  author_url 'https://github.com/ries-tech/redmine_improved_searchbox'
 end
