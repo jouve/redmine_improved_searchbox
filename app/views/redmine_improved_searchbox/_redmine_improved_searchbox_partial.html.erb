@@ -1,7 +1,7 @@
-<!--Chosen Files-->
-<script type="text/javascript" src="/plugin_assets/redmine_improved_searchbox/javascripts/chosen.jquery.min.js"></script>
-<link rel="stylesheet" type="text/css" href="/plugin_assets/redmine_improved_searchbox/stylesheets/chosen.css">
+<!--Select2 Files-->
+<%= stylesheet_link_tag 'select2.css', :plugin => 'redmine_improved_searchbox' %>
+<%= javascript_include_tag 'select2.min.js', :plugin => 'redmine_improved_searchbox' %>
 
 <!--Project Search Box Files-->
-<link rel="stylesheet" type="text/css" href="/plugin_assets/redmine_improved_searchbox/stylesheets/redmine_improved_searchbox.css" />
-<script type="text/javascript" src="/plugin_assets/redmine_improved_searchbox/javascripts/redmine_improved_searchbox.js"></script>
+<%= stylesheet_link_tag 'redmine_improved_searchbox.css', :plugin => 'redmine_improved_searchbox' %>
+<%= javascript_include_tag 'redmine_improved_searchbox.js', :plugin => 'redmine_improved_searchbox' %>
