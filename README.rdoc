@@ -1,6 +1,6 @@
 = redmine_improved_searchbox
 
-Converts Redmine[http://www.redmine.org]'s project searchbox with Select2[http://ivaynberg.github.com/select2] combobox.
+Converts Redmine[http://www.redmine.org]'s project jumpbox with searchable Select2[http://ivaynberg.github.com/select2] combobox.
 
 = Features
 
