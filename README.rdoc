@@ -8,4 +8,4 @@ Converts Redmine[http://www.redmine.org]'s project jumpbox with searchable Selec
 
 = Compatible Versions
 
-- Redmine 2.1.x, 2.2.x
+- Redmine 2.1.x - 3.1.x
